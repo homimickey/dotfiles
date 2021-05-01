@@ -1,4 +1,6 @@
 {
+  "python.jediEnabled": false,
+  "hover.target": "float",
   "suggest.noselect": false,
   "coc.preferences.formatOnSaveFiletypes": [
     "javascript",
@@ -7,8 +9,5 @@
     "javascriptreact",
     "json",
     "typescript.tsx"
-
   ]
-
-
-}          
+}
