@@ -1,3 +1,3 @@
-# These are the `init.vim` and vscode settings files 
+# These are the `init.vim` and coc-settings files 
 
-# not !dotfiles
+### not !dotfiles
